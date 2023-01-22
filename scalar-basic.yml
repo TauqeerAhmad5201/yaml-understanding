@@ -1,0 +1,11 @@
+# This is a yaml doc defining a car 
+
+# This doc has multiple line of comments 
+# - Line 1 
+# - line 2 
+# - line 3 
+
+# Mappings
+vehicle_type: "car"      # key : "value"
+wheels: 4 
+car_types: "sedan"
