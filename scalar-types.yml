@@ -1,4 +1,4 @@
 # Unquoted scalar/ Single quoted scalar / Double Quoted Scalar 
 vendor_name: Mercedes Benz
-dealer_name: XYZ Car Sales Company Pvt ltd. 
-address: 117 KM \nSTONE,\nGT ROAD,NH-1, \nVILLAGE KUTAIL, 132001 Karnal
+dealer_name: 'XYZ Car Sales Company Pvt ltd.' 
+address: "117 KM \nSTONE,\nGT ROAD,NH-1, \nVILLAGE KUTAIL, 132001 Karnal"
