@@ -1,0 +1,12 @@
+vehicle: >
+ "maruti,
+  suzuki,
+  tvs" 
+
+
+# OUTPUT:- 
+#   {
+#   "vehicle": "\"maruti,\n suzuki,\n tvs\" "
+# }
+
+## special character \n line breaking will be shown in > symbol.
