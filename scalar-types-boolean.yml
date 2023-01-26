@@ -1,0 +1,7 @@
+this_is_true: True
+#True 
+this_is_false: False 
+#False 
+
+this_is_a_sentence: True is the sentence
+#since it contains another string also. 
