@@ -1,12 +1,13 @@
-vehicle: >
- "maruti,
-  suzuki,
-  tvs" 
-
+intro: > 
+  hello I
+  am Tauqeer
+  Ahmad
 
 # OUTPUT:- 
-#   {
-#   "vehicle": "\"maruti,\n suzuki,\n tvs\" "
+# {
+#   "intro": "hello I am Tauqeer Ahmad"
 # }
 
-## special character \n line breaking will be shown in > symbol.
+## special character \n line breaking will not be shown in > symbol.
+
+## The > character indicates that multi-line "folded" scalar follows, meaning that 'newlines are converted to spaces' 
