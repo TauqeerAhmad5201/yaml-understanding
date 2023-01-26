@@ -1,0 +1,13 @@
+intro: | 
+  hello I
+  am Tauqeer
+  Ahmad
+
+# OUTPUT:- 
+# {
+#   "intro": "hello I\nam Tauqeer\nAhmad"
+# }
+
+## special character \n line breaking will be shown in | pipe symbol.
+
+##The pipe is used when you want newlines to be kept as newlines.
