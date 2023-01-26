@@ -1,0 +1,42 @@
+Semester VI:
+ subjects: 
+   - Project-1:
+        - data-science
+        - DevOps
+        - ML 
+        - MERN
+        - Solidity
+   - Compiler Design
+   - Computer Network
+   - Compiler Design Lab
+   - Computer N/W Lab 
+   - Data Mining 
+   - Neural N/W and Deep Learning 
+   - Soft Skills and Interpersonal skills
+
+   
+# Output
+
+# {
+#   "Semester VI": {
+#     "subjects": [
+#       {
+#         "Project-1": [
+#           "data-science", 
+#           "DevOps", 
+#           "ML", 
+#           "MERN", 
+#           "Solidity"
+#         ]
+#       }, 
+#       "Compiler Design", 
+#       "Computer Network", 
+#       "Compiler Design Lab", 
+#       "Computer N/W Lab", 
+#       "Data Mining", 
+#       "Neural N/W and Deep Learning", 
+#       "Soft Skills and Interpersonal skills"
+#     ]
+#   }
+# }
+
