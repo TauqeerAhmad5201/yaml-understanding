@@ -1,0 +1,9 @@
+--- ##Indian-players 
+
+player: [MS Dhoni, KL Rahul, Shami, Virat Kohli]
+
+--- ##indian - matches 
+matches: 50
+won: 39
+loss: 11 
+rate: 1.2
