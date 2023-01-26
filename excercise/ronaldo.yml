@@ -1,0 +1,25 @@
+## Data Taken from https://www.whoscored.com/Players/5583/Show/Cristiano-Ronaldo
+
+Name: Cristiano Ronaldo
+Full Name: Cristiano Ronaldo dos Santos Aveiro
+Current Team: Portugal
+Shirt Number: 7
+Age: 37 years old
+DOB: !!timestamp 1985-02-05
+Height: 187cm
+Nationality: Portugal
+Positions: Midfielder (Left), Forward
+matches: 
+  "UEFA Nations League A": 
+    Apps: 4
+    Mins: 388
+    Goals: 2
+    Assists: 1
+    Rating: !!float 7.01
+  
+  "FIFA World Cup":
+    Apps: 3
+    Mins: 291
+    Goals: 1
+    Assists: 1
+    Rating: !!float 6.62
